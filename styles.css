@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2, h3, h4 {
+    font-family: 'Nixie One', cursive;
+    font-weight: 800;
+}
+h1 {
+    text-align: center;
+}
+.recipe-image {
+    width: auto;
+    height: 40em;
+}
